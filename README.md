@@ -20,19 +20,16 @@ The End goal of this project is to help people learning ( spanish) words from TV
 
 ### Phase 1a
 
-1- srt substitute file >>> remove the time stamps create 2 files : list of text subtitle + list of "description information" example
+    1- srt substitute file >>> remove the time stamps create 2 files : list of text subtitle + list of "description information" example
 
-2- from the "subtitles words only "
-    1- count all the words  ( summary )
-    2- count only the unique words ( provide stat of words / subtitle text + unique words summary )
-    3- More advance: count only the same word for: masculin/feminim, also "la + noums" /"el + noums" = 1 words ,  various tense verbs = 1 words
+    2- from the "subtitles words only 
+        1- count all the words  ( summary )
+        2- count only the unique words ( provide stat of words / subtitle text + unique words summary )
+        3- More advance: count only the same word for: masculin/feminim, also "la + noums" /"el + noums" = 1 words ,  various tense verbs = 1 words
 
-3- create a list + translation
-    1- translate the words, order based on the count per subtitle
-    2- more advance:
-          add the letter "V"  ( verb)  and add the infinitive form of the verb
-          add the letter "N" ( noums ) ,.... >>> for the Noums add " el" or "la"
-          may be other . . . ????
+    3- create a list + translation
+        1- translate the words, order based on the count per subtitle
+
 
 
 ### Phase 1b
