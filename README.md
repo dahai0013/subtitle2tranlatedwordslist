@@ -43,28 +43,31 @@ The End goal of this project is to help people learning ( spanish) words from TV
 
 ## Phase 1: python script manual information:
 
-wordlistandwordtranslate.py   <TV_serie_S0xE0x.srt>   -h --help
+subtitle2tranlatedwordslist.py --help
+
+    usage:  subtitle2tranlatedwordslist.py   <TV_serie_S0xE0x.srt>
 
     Options:
+    TV_serie_S0xE0x.srt      Mandatory.
 
-    -o          Output file <serieS01E01.csv>.
+    -o          Output file <TV_serie_S0xE0x.srt.csv>. Default.
     -d          description file <description_file.csv>.
     -e          translate expression as one word:  "Qué tal"  and not "Qué" "tal".
     --dbo       other output format, database format, to be defile in the future.
     --aato      add article to nouns to origin language: + el, la.
     --aivto     add infinite verb form to origin language, format "<SINGLE SPACE> INFINITE_VERB_FORM".
     --gsv       group same verb.
-    --dwi       display word_info: N for Nouns and V for Verb.
+    --dwi       display word's information: N for Nouns and V for Verb.
     --oon       output only the nouns.
     --oov       output only the verbs.
-    --ootr         output only the rest.
+    --ootr      output only the rest.
 
     --ol        original_language: esp , en , ...
     --tl        target_language: eng , fr.  
     --st        second language: romanization or transliteration : PinYin , ....
     --ra        remove article: el, la, una, ...
 
-    --bstat     Basic statistics : only summary of count of words.
+    --bstat     Basic statistics : only summary of count of words.  Default.
     --fstat     Full statistics report: with everything from below.
     --swstat    Single words statistics.
     --swnastat  Single words no articles statistic ???? is it needed ????.
@@ -74,7 +77,7 @@ wordlistandwordtranslate.py   <TV_serie_S0xE0x.srt>   -h --help
     --swiestat  Single words including expression ( like "Qué tal" ) statistics.
 
     --mfl       Multi-file option:  list of file.
-    --mfd        Multi-file directory.
+    --mfd       Multi-file directory.
     --mfso      Multi-file single output file .csv.
     --mfmo      Multi-file multiple output file .csv.
     --mstat     Multi-file stats.
