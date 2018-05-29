@@ -1,16 +1,16 @@
 # Subtitle 2 Translated List of words
 
-The End goal of this project to help people learning ( spanish) words from TV series subtitles using Quizlet (or other flash card project ):
+The End goal of this project is to help people learning ( spanish) words from TV series subtitles using Quizlet (or other flash card project ;-)
 
 
 
 ## Getting Started
 
-    1. phase 1- python script  ( create a word list and translate ) [  + Create an dictionary per language / per season = summ of all word list    — for future application / statistics
-    2. phase 2- website: subtitle search, check if already exist and create a Quizlet
-    3. phase 3- script apply to many subtitle languages / TV series with many episode
-    4. phase 4- graph on the website ( statistics of words usage per single subtitle files and multiple subtitle files )  
-    5. phase 5- Integrate learning progress from Quizlet ( or other ) to create new list of words/ per subtitle files
+    Phase 1- python script  ( create a word list and translate ) [  + Create an dictionary per language / per season = summ of all word list    — for future application / statistics
+    Phase 2- website: subtitle search, check if already exist and create a Quizlet
+    Phase 3- script apply to many subtitle languages / TV series with many episode
+    Phase 4- graph on the website ( statistics of words usage per single subtitle files and multiple subtitle files )  
+    Phase 5- Integrate learning progress from Quizlet ( or other ) to create new list of words/ per subtitle files
 
 ### Prerequisites
 
@@ -34,6 +34,7 @@ The End goal of this project to help people learning ( spanish) words from TV se
           + add the letter "V"  ( verb)  and add the infinitive form of the verb
           + add the letter "N" ( noums ) ,.... >>> for the Noums add " el" or "la"
           + may be other . . . ????
+
 
 ## Phase 1: python script manual information:
 
