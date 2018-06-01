@@ -11,6 +11,7 @@ The End goal of this project is to help people learning ( spanish) words from TV
     Phase 3- script apply to many subtitle languages / TV series with many episode
     Phase 4- graph on the website ( statistics of words usage per single subtitle files and multiple subtitle files )  
     Phase 5- Integrate learning progress from Quizlet ( or other ) to create new list of words/ per subtitle files
+    Phase 6- Improve the learning, AI looking at all the data collected/statistics to find the best way/time/style to learn  [ will be different project ]
 
 ### Prerequisites
 
@@ -50,6 +51,7 @@ subtitle2tranlatedwordslist.py --help
     -o          Output file <TV_serie_S0xE0x.srt.csv>. Default.
     -d          description file <description_file.csv>.
     -e          translate expression as one word:  "Qué tal"  and not "Qué" "tal".
+    -c          composed words: "dímelo dile or diles""
     --dbo       other output format, database format, to be defile in the future.
     --aato      add article to nouns to origin language: + el, la.
     --aivto     add infinite verb form to origin language, format "<SINGLE SPACE> INFINITE_VERB_FORM".
