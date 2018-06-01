@@ -51,7 +51,7 @@ subtitle2tranlatedwordslist.py --help
     -o          Output file <TV_serie_S0xE0x.srt.csv>. Default.
     -d          description file <description_file.csv>.
     -e          translate expression as one word:  "Qué tal"  and not "Qué" "tal".
-    -c          composed words: "dímelo dile or diles""
+    -c          composed words: "dímelo or dile or diles" should be made as one_multiword
     --dbo       other output format, database format, to be defile in the future.
     --aato      add article to nouns to origin language: + el, la.
     --aivto     add infinite verb form to origin language, format "<SINGLE SPACE> INFINITE_VERB_FORM".
