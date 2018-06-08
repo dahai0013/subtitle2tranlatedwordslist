@@ -42,6 +42,7 @@ https://cloud.google.com/translate/docs/reference/libraries#client-libraries-ins
 
 In Powershell: () or cmd )
 $env:GOOGLE_APPLICATION_CREDENTIALS="C:\Users\jkriker\Documents\GitHub\googletranslateapi\apikey.json"
+
 env | grep GOOGLE
 
 
