@@ -36,9 +36,7 @@ The End goal of this project is to help people learning ( spanish) words from TV
 ### Phase 1a: python script usage information:
 
 
-Python 3 is used:
-
-1- 
+1- Create and add google API Key
 In this phase the script use Google Translate API, as it is a paying service ( ) you will need to enter your own 
 https://cloud.google.com/translate/docs/reference/libraries#client-libraries-install-python
 
