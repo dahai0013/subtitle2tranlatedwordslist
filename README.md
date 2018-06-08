@@ -31,7 +31,9 @@ The End goal of this project is to help people learning ( spanish) words from TV
     3- create a list of words + translation of those words
         1- translate the words, order based on the count per subtitle
 
-### Phase 1b: python script usage information:
+
+
+### Phase 1a: python script usage information:
 
 
 Python 3 is used:
@@ -47,7 +49,8 @@ env | grep GOOGLE
 
 2- download the git project
 
-3- change  where the subtitles are:
+
+3- change  directory where the subtitles are:
 cd  C:\Users\<windows_username>\Documents\GitHub\subtitle2tranlatedwordslist
 
 4- run the scipt ( from the subtitle directory )
@@ -62,12 +65,14 @@ C:\Users\<windows_username>\AppData\Local\Programs\Python\Python36\python.exe .\
 
 
 
+
 ## Phase 1b
 
 1- More advance: count only the same word for: masculin/feminim, also "la + noums" /"el + noums" = 1 words ,  various tense verbs = 1 words
 2- usage a mix of dictionary and API
 3- use of database to save the list of words and meta information like: noums, verb, various statistics
 4- cover all features
+
 
 ### Phase 1b: python script manual information:
 
