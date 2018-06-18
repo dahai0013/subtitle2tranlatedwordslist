@@ -4,6 +4,7 @@ import re
 import time
 import json
 import ast
+import argparse
 
 from collections import defaultdict
 from os.path import isfile, join
@@ -141,12 +142,30 @@ def translate_subtitle_file(word_list, target="en"):
     return translated_text
 
 
+
+
+
+
 def main():
     # CONFIG PARAMETERS
     source_folder_path = "./narcos-spanish/"
     _encoding = "utf-8-sig"
     output_folder_path = "output/"
 
+    # ARGPARSE
+    parser = argparse.ArgumentParser(description="Description on the usage of the subtitle to translated word list script.", epilog="--------------------------------")
+
+    
+    # 3 Options
+    #   output file no stat option : <spanish word>,<eng word> 
+    #   ouput file with option --bstat : only the first line = count of unique words (does not include repetition )/ count of all words ( including repetition ) for the other line same: <spanish word>,<eng word> 
+    #   output file with option --swstat : <count of this words>,<spanish word>,<eng word> 
+
+    parser.add_argument('--bstat', action='store_true', help= 'Add Basic statistics to the file: only summary of count of words. ')
+    parser.add_argument('--swstat', action='store_true', help='Single words statistics.')
+
+    args = parser.parse_args()
+    
     # Begin
     files_paths = load_srt_files(source_folder_path)
 
@@ -161,6 +180,56 @@ def main():
 
         translated_text = translate_subtitle_file(sorted_keys, "en")
 
+        # Option 1: 
+        if (args.bstat == False and args.swstat == False):
+
+            # Build the list of lines to be written
+            
+            lines = [str(count_total_words)]
+
+            i = 0
+
+            for k in sorted_keys:
+                lines.append("{},{}".format(k, translated_text[i]))
+                i += 1
+            
+            # Write the file: Format: <spanish word>,<eng word> 
+            write_subtitle_to_file(output_folder_path + path, "_stats_translation", lines, _encoding)
+
+        # Option 2: 
+        if (args.bstat):
+
+            # Build the list of lines to be written
+            
+            lines = ["{}/{}".format(str(count_total_words), str(len(count_dict)))]
+
+            i = 0
+
+            for k in sorted_keys:
+                lines.append("{},{}".format(k, translated_text[i]))
+                i += 1
+            
+            # Write the file: Format: <spanish word>,<eng word> 
+            write_subtitle_to_file(output_folder_path + path, "_stats_translation", lines, _encoding)
+
+        # Option 3: 
+        if (args.swstat):
+
+            # Build the list of lines to be written
+            
+            lines = []
+
+            i = 0
+
+            for k in sorted_keys:
+                lines.append("{},{},{}".format(count_dict[k], k, translated_text[i]))
+                i += 1
+            
+            # Write the file: Format: <spanish word>,<eng word> 
+            write_subtitle_to_file(output_folder_path + path, "_stats_translation", lines, _encoding)
+
+
+        """
         # Write the first file: List of text subtitle
         write_subtitle_to_file(output_folder_path + path, "_subtitleText", textonly_list, _encoding)
 
@@ -176,5 +245,8 @@ def main():
 
         # Write the second file: Stats + translation. Format: count, spanish_word, english_word
         write_subtitle_to_file(output_folder_path + path, "_stats_translation", lines, _encoding)
+        """
 
-main()
+
+if __name__ == '__main__':
+    main()

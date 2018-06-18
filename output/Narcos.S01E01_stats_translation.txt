@@ -1,5 +1,4 @@
-﻿5460
-186,de,from
+﻿186,de,from
 158,a,to
 141,la,the
 136,que,what

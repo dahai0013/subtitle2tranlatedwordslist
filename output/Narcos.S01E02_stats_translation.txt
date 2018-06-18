@@ -1,0 +1,1244 @@
+﻿118,a,to
+110,de,from
+108,que,what
+79,la,the
+71,en,in
+69,el,he
+65,y,Y
+60,no,do not
+50,un,a
+49,los,the
+39,por,by
+36,es,is
+36,steve,steve
+36,pablo,Paul
+36,qué,what
+32,lo,the
+31,se,HE
+29,para,for
+27,su,his
+26,más,plus
+25,una,a
+23,está,this
+22,las,the
+19,con,with
+19,sí,yes
+19,al,to the
+19,mi,my
+18,le,you
+17,me,me
+17,era,was
+17,si,yes
+17,hombre,man
+16,todos,everybody
+16,yo,I
+15,pero,but
+15,te,tea
+14,del,of the
+14,este,East
+14,vamos,come on
+13,eso,that
+13,bien,all right
+13,ya,already
+12,narcos,narcos
+11,muy,very
+11,gacha,gacha
+11,ochoa,ochoa
+11,día,day
+10,cómo,how
+10,fue,It was
+10,medellín,medellin
+9,o,or
+9,marta,Martha
+9,como,as
+8,gracias,Thank you
+8,favor,favor
+8,español,Spanish
+8,señor,Mr
+8,aquí,here
+8,peña,pain
+7,sus,their
+7,colombia,Colombia
+7,hasta,until
+7,ese,that
+7,tenía,had
+7,todo,all
+7,escobar,escobar
+7,m,m
+7,murphy,murphy
+7,gato,cat
+7,usted,you
+6,son,They are
+6,dinero,money
+6,problema,problem
+6,gustavo,Gustavo
+6,ni,neither
+6,perro,dog
+6,hay,there are
+6,nos,us
+6,país,country
+6,les,them
+6,esposa,wife
+6,carrillo,cheek
+5,cuando,when
+5,estar,to be
+5,patrón,Pattern
+5,momento,moment
+5,disparos,shots
+5,esto,this
+5,van,go
+5,están,is it so
+5,capone,capone
+5,porque,why
+5,tanto,so much
+5,bueno,good
+5,solo,alone
+5,hacer,do
+5,tiene,has
+5,nada,nothing
+5,sin,without
+5,puedo,may l
+5,sea,be
+5,estoy,I am
+5,connie,connie
+5,primera,first
+5,helena,Helena
+5,días,days
+5,inglés,English
+5,bebé,baby
+4,miami,miami
+4,toma,taking
+4,eh,Hey
+4,carlos,Carlos
+4,sobre,on
+4,semana,week
+4,podría,could
+4,pues,well
+4,hermano,brother
+4,hijo,son
+4,puta,bitch
+4,pasó,He passed
+4,quieres,you want
+4,ver,see
+4,gente,people
+4,plata,silver
+4,nunca,never
+4,luego,then
+4,prostitutas,prostitutes
+4,siempre,always
+4,así,A) Yes
+4,va,goes
+4,quiere,wants
+4,verdad,true
+4,ríen,laugh
+4,tan,so
+4,alguien,someone
+4,dice,He says
+4,familia,family
+4,murmullos,whispers
+4,sé,HE
+4,él,he
+4,pobres,poor
+4,también,as well
+4,hola,Hello
+4,suspira,sighs
+4,señora,Mrs
+4,claro,Clear
+4,algo,something
+4,valeria,valeria
+4,dónde,where
+4,quiero,I want
+4,estaba,I was
+4,salud,Health
+4,mayor,higher
+4,nuestro,our
+4,hace,does
+4,mí,my
+4,perdón,sorry
+4,prometo,I promise
+4,javier,Javier
+4,vez,time
+4,buenos,good ones
+4,secuestradores,kidnappers
+4,poquito,bit
+4,hablando,speaking
+4,muchachos,boys
+4,riendo,laughing
+4,sabe,knows
+4,pegaditos,pegaditos
+3,cocaína,cocaine
+3,tenían,They had
+3,aviones,planes
+3,cosas,things
+3,dólares,Dollars
+3,ahora,now
+3,ríe,laugh
+3,pasa,pass
+3,vea,see
+3,gime,moan
+3,dame,give to me
+3,parece,It seems
+3,tenemos,we have
+3,dos,two
+3,hizo,did
+3,demasiado,too
+3,papeles,papers
+3,estás,these
+3,vas,you go
+3,madre,mother
+3,otro,other
+3,mejor,best
+3,trabajo,job
+3,tesoro,treasure
+3,tienen,they have
+3,rico,rich
+3,digo,I say
+3,loco,crazy
+3,además,Besides
+3,iván,Ivan
+3,terrible,terrible
+3,bolívar,bolivar
+3,espada,sword
+3,tu,you
+3,listo,ready
+3,tengo,I have
+3,¡no,do not
+3,empleado,employee
+3,i,i
+3,jefe,boss
+3,vida,lifetime
+3,cuánto,how much
+3,rato,little while
+3,¡pablo,Paul
+3,bogotá,Bogota
+3,dijo,He said
+3,esta,this
+3,quién,who
+3,entrar,get in
+3,embajada,embassy
+3,información,information
+3,podía,I could
+3,visa,visa
+3,fin,end
+3,todas,all
+3,última,last
+3,reunión,meeting
+3,grupo,group
+3,embajadora,ambassador
+3,necesito,I need
+3,clic,click
+3,había,there was
+3,ustedes,you
+3,uno,one
+3,importante,important
+3,esa,that
+3,voy,I go
+3,hombres,mens
+3,arriba,above
+3,ahí,there
+3,cerrado,closed
+2,original,original
+2,reales,real
+2,personas,people
+2,fui,I was
+2,estadounidenses,Americans
+2,año,year
+2,esas,those
+2,bahamas,bahamas
+2,entre,between
+2,lehder,lehder
+2,isla,island
+2,buen,good
+2,lugar,place
+2,tres,three
+2,drogas,drug
+2,sino,if not
+2,selva,jungle
+2,pueblo,town
+2,pasta,pasta
+2,millones,millions
+2,serio,serious
+2,coca,Coke
+2,barco,ship
+2,saber,to know
+2,importa,import
+2,culo,ass
+2,ven,come
+2,mirando,looking
+2,haga,make
+2,vos,you
+2,huevón,huevón
+2,grande,big
+2,historia,history
+2,cinco,five
+2,mundo,world
+2,hicieran,did
+2,ocultar,hide
+2,mucha,a lot
+2,tienes,do you have
+2,casas,houses
+2,he,I have
+2,bajo,low
+2,revista,magazine
+2,forbes,forbes
+2,gobierno,government
+2,hágale,do it
+2,hicieron,made
+2,oye,hears
+2,mamá,mom
+2,baja,low
+2,mijo,Son
+2,esos,those
+2,pirata,pirate
+2,iba,I was going
+2,pueden,may
+2,llamar,to call
+2,mujer,woman
+2,acá,here
+2,ejército,army
+2,hermanos,brothers
+2,ella,she
+2,ellos,they
+2,nadie,no one
+2,conocen,know
+2,rock,rock
+2,habían,they had
+2,líder,Leader
+2,sabía,I knew
+2,gemidos,wailing
+2,razón,reason
+2,acuerdo,agreement
+2,gritos,shouting
+2,¡dale,Go ahead
+2,secuestraron,they kidnapped
+2,supongo,I suppose
+2,americano,American
+2,tampoco,neither
+2,creo,I believe
+2,intentaba,I was trying
+2,sería,would
+2,presidente,President
+2,presento,I present
+2,tata,tata
+2,salir,get out
+2,mismo,same
+2,quizá,maybe
+2,niño,boy
+2,llevamos,we carry
+2,horas,hours
+2,esperando,waiting
+2,bienvenidos,Welcome
+2,soy,I am
+2,vélez,vélez
+2,hoy,today
+2,robin,robin
+2,hood,hood
+2,sabes,you know
+2,lejos,far
+2,ninguna,any
+2,cosa,thing
+2,cambio,change
+2,cabrón,dumbass
+2,muchas,many
+2,multitud,crowd
+2,punto,point
+2,ser,be
+2,pasaporte,passport
+2,disculpe,sorry
+2,estados,state
+2,unidos,United
+2,limpieza,cleaning
+2,debe,should
+2,puede,can
+2,pasar,happen
+2,primer,first
+2,¡ah,Ah
+2,sacar,take
+2,compañero,companion
+2,ti,you
+2,tío,uncle
+2,sam,sam
+2,iré,I will go
+2,beso,kiss
+2,otra,other
+2,buena,good
+2,fiesta,party
+2,hacemos,we make
+2,paga,pay
+2,igual,same
+2,jorge,George
+2,margaritas,daisies
+2,militar,military
+2,comunistas,communists
+2,parada,stop
+2,lujo,luxury
+2,parar,stop
+2,agente,agent
+2,informante,informant
+2,vaya,go
+2,siguiente,following
+2,operaciones,operations
+2,reunir,gather
+2,carne,meat
+2,fresca,cool
+2,hotel,hotel
+2,fotos,Photos
+2,visto,viewed
+2,cartel,poster
+2,muerte,death
+2,maneje,manage
+2,allá,there
+2,tú,you
+2,gusta,like
+2,queda,remains
+2,error,error
+2,jadea,pant
+2,fuera,outside
+2,nuestra,our
+2,decir,say
+2,muerta,dead
+2,matado,killed
+2,volver,return
+2,quédate,stay
+2,¡a,to
+2,hembra,female
+2,puerta,door
+2,radio,radio
+2,fuiste,you were
+2,pase,pass
+2,entendido,it is understood
+2,sana,fury
+2,salva,saves
+2,¡por,by
+2,¡un,a
+2,arbolito,little tree
+2,¡eso,that
+2,parque,Park
+2,olor,odor
+2,bonito,beautiful
+2,sacudiría,I would shake
+2,quería,wanted to
+2,escolta,shooting guard
+2,dios,God
+1,serie,series
+1,netflix,Netflix
+1,inspirada,inspired
+1,hechos,acts
+1,algunos,Some
+1,elementos,elements
+1,ficción,fiction
+1,cualquier,any
+1,semejanza,likeness
+1,mera,mere
+1,coincidencia,coincidence
+1,música,music
+1,bolero,bolero
+1,consumían,they consumed
+1,unas,nail
+1,toneladas,tons
+1,satisfacer,satisfy
+1,narices,nose
+1,expandieron,they expanded
+1,actividad,activity
+1,cariño,sweetie
+1,hermoso,beautiful
+1,tantos,so many
+1,precisaban,they needed
+1,cargar,load
+1,combustible,gas
+1,compró,I buy
+1,transbordo,transfer
+1,resultó,turned out
+1,pasarla,pass it
+1,ovación,ovation
+1,sodoma,Sodom
+1,gomorra,gomorra
+1,moderna,modern
+1,amaba,I loved
+1,sexo,sex
+1,simpatizantes,supporters
+1,nazi,Nazi
+1,¡hurra,Hurrah
+1,¡vamos,come on
+1,tirar,throw
+1,vitorean,cheer
+1,demanda,demand
+1,oferta,offer
+1,debemos,we must
+1,amazonas,Amazon
+1,metros,meters
+1,altura,height
+1,paraíso,paradise
+1,virgen,Virgin
+1,tierra,Earth
+1,eran,they were
+1,distintas,different
+1,socios,partners
+1,construían,they built
+1,superlaboratorios,superlaboratory
+1,tamaño,size
+1,hoja,sheet
+1,polvo,dust
+1,producían,they produced
+1,kilos,kilos
+1,kilo,kilo
+1,ganaban,they won
+1,hacían,they did
+1,negocios,business
+1,primo,cousin
+1,traía,I brought
+1,químicos,chemical
+1,alemania,Germany
+1,licuar,liquefy
+1,agregaban,they added
+1,bebidas,drinks
+1,alcohólicas,alcoholic
+1,café,coffee
+1,divertirse,have fun
+1,ponían,they put
+1,cola,tail
+1,ve,go
+1,ocultaba,hid
+1,productos,products
+1,venderá,will sell
+1,producto,product
+1,hora,hour
+1,ganarle,beat him
+1,propios,own
+1,perros,dogs
+1,detectores,detectors
+1,apostó,bet
+1,alemán,German
+1,engañar,cheat
+1,busque,I searched
+1,campeón,champion
+1,timbró,he rang
+1,venga,come on
+1,mezclada,mixed
+1,fibra,fiber
+1,vidrio,glass
+1,casco,helmet
+1,billetitos,billetitos
+1,¡la,the
+1,platita,little girl
+1,estafaron,cheated
+1,uy,uy
+1,marquesa,marquise
+1,querida,Dear
+1,tranquila,quiet
+1,tranquilita,tranquil
+1,enloqueció,went mad
+1,olvídate,forget
+1,malparido,bastard
+1,matón,bully
+1,quebró,broke
+1,resolvemos,we solve
+1,quebrar,break
+1,preguntando,asking
+1,repente,suddenly
+1,comerciantes,merchants
+1,envigado,envied
+1,resultaron,they were
+1,tanta,so much
+1,lave,wash
+1,parezca,look like
+1,legítimo,legitimate
+1,sos,sos
+1,pésimo,appalling
+1,ejemplo,example
+1,tuvo,He had
+1,billete,ticket
+1,lavar,to wash
+1,compremos,let&#39;s buy
+1,lavadora,washing machine
+1,intentaron,they tried
+1,primero,First
+1,empresa,company
+1,taxis,taxis
+1,rentable,profitable
+1,autos,cars
+1,hacía,toward
+1,mina,mine
+1,esmeraldas,emeralds
+1,próspera,prosperous
+1,inyectaba,injected
+1,aceite,oil
+1,piedras,stones
+1,ordinarias,ordinary
+1,darles,give them
+1,brillo,brightness
+1,amigos,friends
+1,compraban,they bought
+1,regalaban,gave away
+1,contentos,happy
+1,podían,could
+1,paraba,I stopped
+1,llegar,arrive
+1,gastando,spending
+1,picassos,picassos
+1,dalís,dalís
+1,fincas,farms
+1,apartamentos,apartments
+1,lanchas,boats
+1,carros,cars
+1,dicho,saying
+1,volar,fly
+1,sigues,are you still
+1,comprando,buying
+1,aparecer,Appear
+1,reventar,burst
+1,diga,tell
+1,entiérrela,bury it
+1,entierre,bury
+1,déjese,let yourself
+1,pendejadas,bullshit
+1,marica,sissy
+1,enterraron,they buried
+1,campos,fields
+1,ocultaron,they hid
+1,caletas,caletas
+1,escondites,hiding places
+1,muros,walls
+1,techos,ceilings
+1,metieron,they put
+1,millón,million
+1,sillón,armchair
+1,déjame,let me
+1,rezar,pray
+1,voz,voice
+1,ratito,little
+1,siéntate,Sit down
+1,cómodo,comfortable
+1,pablito,pablito
+1,después,after
+1,compro,I buy
+1,sofá,sofa
+1,pones,you put
+1,banco,Bank
+1,banqueros,bankers
+1,unos,some
+1,bandidos,bandits
+1,llamaba,called
+1,contador,accountant
+1,barbanegra,blackbeard
+1,pareciera,it seems
+1,trazar,draw
+1,mapa,Map
+1,funcionó,it worked
+1,pequeño,little
+1,fortuna,fortune
+1,inevitable,inevitable
+1,intentar,try
+1,robar,Steal
+1,billetes,tickets
+1,cerdo,pork
+1,capitalista,capitalist
+1,secuestramos,we kidnap
+1,policía,police
+1,risas,laughter
+1,comandante,commander
+1,mexicano,Mexican
+1,noveno,nineth
+1,secuestremos,we kidnap
+1,maniático,maniac
+1,compañera,partner
+1,comprada,purchased
+1,mitad,half
+1,número,number
+1,lista,list
+1,hermana,sister
+1,universidad,college
+1,prefiero,I prefer
+1,blandengues,blandengues
+1,oigan,hear
+1,momentito,moment
+1,pensando,thinking
+1,secuestrar,to kidnap
+1,piensan,think
+1,guerrilla,guerrilla
+1,comunista,communist
+1,universitarios,university students
+1,e,and
+1,intelectuales,intellectuals
+1,leído,read
+1,marx,marx
+1,torres,towers
+1,profesor,teacher
+1,guerrillas,guerrillas
+1,comprendía,I understood
+1,poder,power
+1,símbolos,symbols
+1,asaltó,assault
+1,museo,Museum
+1,quinta,fifth
+1,cómplice,accomplice
+1,alejandro,Alexander
+1,novia,girlfriend
+1,elisa,elisa
+1,robó,Stole
+1,nacional,national
+1,simón,Simon
+1,mítico,mythical
+1,general,general
+1,logró,achievement
+1,independencia,independence
+1,imperio,empire
+1,bromistas,pranksters
+1,dejaron,They left
+1,nota,note
+1,regresa,came back
+1,campo,countryside
+1,batalla,battle
+1,rapto,rapture
+1,genialidad,genius
+1,golpe,knock
+1,publicidad,advertising
+1,visionario,visionary
+1,famosos,Famous
+1,noche,night
+1,mañana,morning
+1,subió,went up
+1,cabeza,head
+1,da,gives
+1,cae,falls off
+1,respuestas,answers
+1,carro,car
+1,¡métete,Get in
+1,dentro,inside
+1,quítate,take off
+1,marzo,March
+1,león,Lion
+1,cumplió,fulfilled
+1,viajes,travels
+1,gusto,taste
+1,buenas,good
+1,tardes,afternoons
+1,formulario,form
+1,sanitario,sanitary
+1,b,b
+1,identificación,ID
+1,habla,speaks
+1,puff,puff
+1,traen,they bring
+1,oficialmente,officially
+1,asegurar,ensure
+1,comprobar,check
+1,tratando,trying
+1,complicarle,complicate
+1,llevo,I wear
+1,dejó,left
+1,malhumorado,grumpy
+1,acompáñenme,come with me
+1,esperen,wait
+1,pedirá,will ask
+1,papel,paper
+1,demorará,it will delay
+1,vitoreos,vitoreos
+1,mientras,While
+1,meterme,get in
+1,meterse,mess
+1,política,politics
+1,hablaba,he spoke
+1,tranquilo,quiet
+1,todavía,still
+1,acostumbrado,used
+1,importaría,mind to
+1,retirarse,backing out
+1,váyase,Go away
+1,casita,cottage
+1,queja,complain
+1,tipo,kind
+1,esté,East
+1,terapia,therapy
+1,pareja,couple
+1,dices,dices
+1,psicólogo,psychologist
+1,haces,you do
+1,practico,practical
+1,nuevos,new
+1,tiempos,time
+1,conocido,known
+1,paisa,paisa
+1,generosidad,generosity
+1,oyeron,they heard
+1,comparó,compared
+1,carajo,fuck
+1,cierto,true
+1,sentido,sense
+1,das,you give
+1,adelantarme,get ahead
+1,cuéntenos,tell us
+1,programa,Program
+1,suburbios,suburbs
+1,nací,I was born
+1,rionegro,Black river
+1,pregunté,I asked for
+1,existe,exists
+1,representar,represent
+1,distanciado,distanced
+1,clínicas,clinics
+1,programas,programs
+1,sociales,social
+1,atléticos,athletic
+1,construcción,building
+1,comunidad,community
+1,escuché,I heard
+1,aspiraciones,aspirations
+1,políticas,policies
+1,manera,way
+1,ocupa,occupy
+1,parte,part
+1,tiempo,weather
+1,décadas,decades
+1,ha,he has
+1,sido,been
+1,mandado,commanded
+1,lópez,lopez
+1,lleras,lleras
+1,pastrana,pastrana
+1,otras,others
+1,familias,families
+1,acomodadas,well-off
+1,fortunas,fortunes
+1,costa,coast
+1,sueños,dreams
+1,común,common
+1,creerlo,believe it
+1,saben,you know
+1,narcotraficante,drug dealer
+1,vitorea,cheers
+1,radar,Radar
+1,suyo,yours
+1,atendernos,help us
+1,agotada,exhausted
+1,vacunas,vaccinations
+1,limpia,clean
+1,apostar,bet
+1,trasero,rear
+1,disfruten,enjoy
+1,estadía,stay
+1,fácil,easy
+1,supieron,they knew
+1,desde,since
+1,cuanto,how much
+1,entrevistar,to interview
+1,cuidado,watch out
+1,peligrosa,dangerous
+1,pie,foot
+1,ambos,both of them
+1,jadean,pant
+1,irrespete,disrespect
+1,oyó,or me
+1,perdóname,forgive me
+1,volverá,To return to
+1,perdones,sorry
+1,terminarme,finish me
+1,concedérselo,grant him
+1,detectar,detect
+1,ubicó,located
+1,provecho,advantage
+1,parecido,similar
+1,vio,he saw
+1,obtener,get
+1,mismas,same
+1,mujeres,women
+1,mejoramos,we improve
+1,cada,each
+1,practicamos,we practice
+1,ay,Oh
+1,eres,you are
+1,increíble,amazing
+1,pases,passes
+1,ofreces,you offer
+1,tomar,drink
+1,whisky,whiskey
+1,agua,Water
+1,llave,key
+1,agüita,water
+1,falta,lack
+1,limpie,clean
+1,apartamento,apartment
+1,ofreciendo,offering
+1,fueras,you were
+1,cliente,client
+1,hubieras,would have
+1,pagado,paid out
+1,sabrías,You&#39;d know
+1,verdadero,true
+1,nombre,first name
+1,tomes,take
+1,mal,wrong
+1,lana,wool
+1,diste,you gave
+1,consígueme,get me
+1,podemos,we can
+1,negociar,negotiate
+1,harás,you will do
+1,placer,pleasure
+1,cuidar,look after
+1,hija,daughter
+1,pagar,pay
+1,estos,these
+1,ricos,rich
+1,javi,Javi
+1,tendré,I will have
+1,buscarme,find me
+1,suerte,luck
+1,algunas,some
+1,avión,airplane
+1,jadeos,panting
+1,¡cielos,Heavens
+1,sonó,it sounded
+1,cuatro,four
+1,cuadras,blocks
+1,oh,oh
+1,calle,Street
+1,grita,shouts
+1,ametralladora,machine gun
+1,abajo,down
+1,cama,bed
+1,cosita,little thing
+1,sopló,blew it
+1,teresa,Teresa
+1,calcuta,calcutta
+1,grabación,recording
+1,peso,weight
+1,entonces,so
+1,allí,there
+1,conocí,I met
+1,presentó,presented
+1,dea,dea
+1,weaver,weaver
+1,wisnicki,wisnicki
+1,r,r
+1,p,p
+1,retirados,retired
+1,púdrete,dulcimer
+1,terminaron,they finished
+1,vacaciones,holidays
+1,enviaremos,we will send
+1,informes,reports
+1,t,t
+1,directo,direct
+1,washington,Washington
+1,marines,Marines
+1,asesoran,advise
+1,fuerzas,forces
+1,armadas,armed
+1,colombianas,Colombian
+1,amenazas,threats
+1,¡oye,hears
+1,clasificado,classified
+1,desclasificó,declassified
+1,decide,decide
+1,oficina,office
+1,datos,data
+1,irá,go to
+1,vuelos,flights
+1,hoteles,Hotels
+1,estrellas,stars
+1,harán,they will
+1,acceso,access
+1,confirmarlo,confirm it
+1,descubro,I discover
+1,dólar,dollar
+1,contribuyentes,taxpayers
+1,verá,will see
+1,conmigo,with me
+1,pediré,I will ask
+1,firma,firm
+1,cansando,getting tired
+1,agradas,you like
+1,prostituta,prostitute
+1,trabajamos,we work
+1,terruño,terroir
+1,escuela,school
+1,holguín,holguin
+1,base,base
+1,coronel,colonel
+1,inteligencia,intelligence
+1,dio,it gave
+1,nuevo,new
+1,fuimos,we went
+1,donde,where
+1,estaban,They were
+1,reunirse,get together
+1,tomé,take
+1,ayudaron,they helped
+1,identificaciones,identifications
+1,durante,during
+1,meses,months
+1,fernando,fernando
+1,galeano,galeano
+1,lobo,Wolf
+1,otros,others
+1,traficantes,traffickers
+1,último,latest
+1,fotografía,Photography
+1,techo,ceiling
+1,documentamos,we document
+1,sabíamos,we knew
+1,presenciábamos,we witnessed
+1,creación,creation
+1,legendario,legendary
+1,aprovechó,took advantage
+1,secuestro,kidnapping
+1,autoproclamó,self-proclaimed
+1,proponiendo,proposing
+1,señores,Sirs
+1,formemos,let&#39;s form
+1,organización,organization
+1,unamos,unamos
+1,nuestros,our
+1,recursos,means
+1,entrenar,to train
+1,soldados,soldiers
+1,intercambiar,to exchange
+1,conocimientos,knowledge
+1,comprar,to buy
+1,quede,stay
+1,asentimiento,assent
+1,propongo,I propose
+1,aspectos,aspects
+1,operacionales,operational
+1,deben,must
+1,cubrir,cover
+1,mis,my
+1,gastos,expenses
+1,recibirán,will receive
+1,acabar,finish
+1,secuestros,kidnappings
+1,regresar,to return
+1,¡muerte,death
+1,supimos,we knew
+1,terminado,finished
+1,llegaron,they arrived
+1,informantes,informants
+1,centro,center
+1,acción,action
+1,¡pasen,Pass
+1,¡disfruten,enjoy
+1,olviden,forget
+1,quica,quica
+1,¡una,a
+1,amor,love
+1,sombrero,hat
+1,crees,you think
+1,guapísima,gorgeous
+1,debería,should
+1,habrá,there will be
+1,cometido,task
+1,tonta,dumb
+1,estará,will be
+1,poniendo,putting up
+1,bonita,pretty
+1,deseaba,I wanted
+1,haría,would do
+1,causa,cause
+1,cansado,tired
+1,ah,ah
+1,deja,let
+1,relaje,relax
+1,cansaste,you tired
+1,hablar,talk
+1,dicen,they say
+1,haberla,have it
+1,habrán,they will have
+1,lado,side
+1,conocía,I knew
+1,riesgos,risks
+1,volvemos,we come back
+1,encuentres,find
+1,conozco,I know
+1,sicario,hitman
+1,interesa,interest
+1,contigo,with you
+1,aparece,appears
+1,adónde,where
+1,buscarla,look for it
+1,solloza,sob
+1,perra,female dog
+1,mueve,move
+1,vaca,cow
+1,mataste,you killed
+1,hablan,speak
+1,turno,turn
+1,susurra,whisper
+1,jadeando,panting
+1,ahóguelo,make it
+1,quejidos,whining
+1,abre,opens
+1,cierra,closes
+1,acabó,finished
+1,fiestita,little party
+1,quejan,complain
+1,cascar,crack
+1,piroba,piroba
+1,paranoico,paranoid
+1,espere,I waited
+1,gustan,like
+1,golpeaditas,hit
+1,déjeme,let me
+1,divertirme,have fun
+1,ahorita,right now
+1,suelto,loose
+1,¡esta,this
+1,cachetearla,cache
+1,conversación,conversation
+1,indistinta,indistinct
+1,alguna,any
+1,noticia,News
+1,acuérdese,remember
+1,hablo,I speak
+1,pedazo,piece
+1,mierda,shit
+1,disparo,Shooting
+1,quejido,moan
+1,sollozos,sobs
+1,copio,I copy
+1,gringo,gringo
+1,llama,call
+1,hablas,speak
+1,enciende,turn on
+1,motor,motor
+1,sedada,sedated
+1,pondrá,will put
+1,físicamente,physically
+1,mentalmente,mentally
+1,idea,idea
+1,propósito,purpose
+1,mira,look
+1,compañeros,companions
+1,vine,came
+1,quedarme,stay
+1,fondo,background
+1,espero,I hope
+1,sepas,you know
+1,significa,it means
+1,mensaje,message
+1,simple,simple
+1,matarlos,kill them
+1,devolvieran,return
+1,creyó,he believed
+1,ocultarse,hide
+1,esperar,wait
+1,tarde,late
+1,temprano,early
+1,pensaba,I thought
+1,rendirían,they would surrender
+1,grave,serious
+1,chance,chance
+1,entregan,deliver
+1,firmado,signed
+1,frenada,braking
+1,brusca,abrupt
+1,déjenme,leave me
+1,¡rápido,Quick
+1,sobra,surplus
+1,liberada,liberated
+1,matanza,slaughter
+1,detuvo,stopped
+1,probado,tried
+1,sabor,flavor
+1,sangre,blood
+1,gustado,liked
+1,regados,watered
+1,dígale,tell him
+1,veneno,poison
+1,ponga,put
+1,¡póngalos,Put them
+1,poco,little bit
+1,mucho,a lot
+1,llanto,crying
+1,dije,said
+1,dejara,leave
+1,encargo,charge
+1,pendejo,stupid
+1,tome,take
+1,foto,Photo
+1,mandamos,we sent
+1,periódicos,newspapers
+1,muestro,I show
+1,salida,departure
+1,cruzo,cross
+1,fétido,fetid
+1,enfermar,get sick
+1,sentía,felt
+1,extraño,strange
+1,mire,Look
+1,igualito,same
+1,papá,dad
+1,orgullosa,proud
+1,supuesto,supposed
+1,tendremos,we will have
+1,pronto,soon
+1,felicito,I congratulate
+1,sabemos,we know
+1,niña,girl
+1,colgados,hung
+1,salieron,They left
+1,diarios,newspapers
+1,mostraron,they showed
+1,invencible,invincible
+1,hacerles,make them
+1,temidos,feared
+1,hacérselo,do it
+1,cualquiera,anyone
+1,comprendió,understood
+1,enseguida,right away
+1,alternativa,alternative
+1,don,Don
+1,hagamos,let&#39;s do
+1,quiebro,break
+1,termine,I finished
+1,empezó,it started
+1,bolivariana,Bolivarian
+1,regalo,present
+1,muchísimas,very many
+1,párese,stand up
+1,garantizo,I guarantee
+1,pasarle,pass him
+1,persona,person
+1,adelante,ahead
+1,trabajar,to work
+1,juntos,together
+1,paz,peace
+1,jodas,fuck
+1,liberar,break free
+1,bienvenido,you are welcome
+1,teníamos,we had
+1,muchos,Many
+1,colombianos,Colombians
+1,horacio,horacio
+1,importaba,I mattered
+1,futuro,future
+1,harían,would do
+1,arreglarlo,fix
+1,guerra,war
+1,cimientos,foundations
+1,carnicería,Butcher shop
+1,mío,my own
+1,ayudar,help
+1,empleó,job
+1,enfermera,nurse
+1,comuna,commune
+1,aporte,input
+1,olvidó,I forget
+1,estábamos,we were
+1,llevará,carry
+1,traerá,will bring
+1,esperará,will wait
+1,afuera,outside
+1,iglesia,church
+1,casamos,we married
+1,dejar,leave
+1,auto,car
+1,niños,children
+1,alabado,praised
+1,cuidándote,taking care of you
+1,casa,home
+1,paso,He passed
+1,dejamos,we leave
+1,abierta,open
+1,atrás,behind
+1,muevas,move
