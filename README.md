@@ -63,7 +63,16 @@ C:\Users\<windows_username>\AppData\Local\Programs\Python\Python36\python.exe .\
 6- import into the quizlet
 
 
+    python.exe .\main.py --help
+    usage: main.py [-h] [--bstat] [--swstat]
 
+    Description on the usage of the subtitle to translated word list script.
+
+    optional arguments:
+      -h, --help  show this help message and exit
+      --bstat     Add Basic statistics to the file: only summary of count of
+                  words.
+      --swstat    Single words statistics.
 
 ## Phase 1b
 
