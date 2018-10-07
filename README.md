@@ -76,10 +76,10 @@ C:\Users\<windows_username>\AppData\Local\Programs\Python\Python36\python.exe .\
 
 ## Phase 1b
 
-1- More advance: count only the same word for: masculin/feminim, also "la + noums" /"el + noums" = 1 words ,  various tense verbs = 1 words
-2- usage a mix of dictionary and API
-3- use of database to save the list of words and meta information like: noums, verb, various statistics
-4- cover all features
+    1- More advance: count only the same word for: masculin/feminim, also "la + noums" /"el + noums" = 1 words ,  various tense verbs = 1 words
+    2- usage a mix of dictionary and API
+    3- use of database to save the list of words and meta information like: noums, verb, various statistics
+    4- cover all features
 
 
 ### Phase 1b: python script manual information:
